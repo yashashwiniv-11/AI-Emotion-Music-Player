@@ -29,7 +29,10 @@ Emotion-Music-Player/
     └── neutral.mp3
 
 ##  How to Run
+## 🎥 Demo Video
 
+Watch the working demo of the Emotion Music Player here:
+https://drive.google.com/file/d/1EZ9o1U3Kb2CYviP0A-sGUIXQDllCnIG0/view?usp=drive_link
 ###  Clone the repository
 ```bash
 git clone https://github.com/YOUR_USERNAME/Emotion-Music-Player.git
