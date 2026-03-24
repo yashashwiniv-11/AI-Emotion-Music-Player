@@ -3,3 +3,4 @@ fer
 pygame
 mtcnn
 numpy==1.23.5
+tensorflow
