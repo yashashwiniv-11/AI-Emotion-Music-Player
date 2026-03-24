@@ -28,7 +28,6 @@ The main goal of this project is to make music listening more interactive. Inste
 ---
 
 ## Project Structure
-
 The project is organized in a simple way:
 
 Emotion-Music-Player/  
@@ -52,3 +51,12 @@ Emotion-Music-Player/
 Each music file represents a specific emotion or mood.
 
 ---
+=======
+##  How to Run
+## 🎥 Demo Video
+
+Watch the working demo of the Emotion Music Player here:
+https://drive.google.com/file/d/1EZ9o1U3Kb2CYviP0A-sGUIXQDllCnIG0/view?usp=drive_link
+###  Clone the repository
+```bash
+git clone https://github.com/YOUR_USERNAME/Emotion-Music-Player.git
